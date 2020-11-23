@@ -1,0 +1,3 @@
+graft boite_a_outils
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  boite_a_outils/jupy *
